@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PreNac2</string>
+    <string name="nome">Nome:</string>
+    <string name="rm">RM</string>
+    <string name="senha">Senha</string>
+    <string name="logar">Logar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="voltar">Voltar</string>
+</resources>
